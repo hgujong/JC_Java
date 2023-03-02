@@ -8,6 +8,7 @@ public class Pencil {
         return length;
     }
 
+
     public int getLen() {
         return length;
     }
